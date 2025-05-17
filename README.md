@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End Developer from Nganjuk, East Java, Indonesia</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGttY2h3cTFjY2hra3ZrejZzbWd4YzdrOGphdGhnM3ZvNnk1OTVjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQJyPqc6E4xoc/giphy.gif" width="300" alt="Happy" style="border-radius: 100%;" />
+  <img src="/img/banner.png" width="100%" alt="banner">
 </p>
 
 
