@@ -2,17 +2,15 @@
 <h3 align="center">A passionate Front-End Developer from Nganjuk, East Java, Indonesia</h3>
 
 <p align="center">
-  <img src="/img/banner.png" width="100%" alt="banner">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt2Y3cwd2x4bDE2NnJ4eXlmM2JvdGVydHhxbW5hMG4xYmw3eXowNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQJyPqc6E4xoc/giphy.gif" width="100%" alt="cat" >
 </p>
-
 
 ---
 
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning **Next.js** and **TypeScript**
 - 💼 I'm open to freelance opportunities or remote work
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
-- 📝 I regularly write articles on [your blog or medium link]
+- 📫 How to reach me: rizkipratamasunarko@gmail.com
 
 ---
 
@@ -26,16 +24,18 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/yourname" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/yourhandle/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rizki-pratama-sunarko-30257b264/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yourhandle/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/6285708350575" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
 </p>
