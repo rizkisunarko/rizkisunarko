@@ -1,41 +1,70 @@
-<h1 align="center">Hi 👋, I'm Rizki Pratama Sunarko</h1>
-<h3 align="center">A passionate Front-End Developer from Nganjuk, East Java, Indonesia</h3>
+<h1 align="left">Hi 👋, I'm Rizki Pratama Sunarko</h1>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt2Y3cwd2x4bDE2NnJ4eXlmM2JvdGVydHhxbW5hMG4xYmw3eXowNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQJyPqc6E4xoc/giphy.gif" width="500px" height="500px" alt="cat" >
-</p>
+###
 
----
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWE0d2ZvcTlmaTJxMGF5am5mNHhzYmkxMXRlOTN6YXRrbTF2djlkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQJyPqc6E4xoc/giphy.gif"  />
+</div>
 
-### 👨‍💻 About Me:
-- 🌱 I’m currently learning **Next.js** and **TypeScript**
-- 💼 I'm open to freelance opportunities or remote work
-- 📫 How to reach me: rizkipratamasunarko@gmail.com
+###
 
----
+<p align="left">My name is Rizki Pratama Sunarko, and I'm a Front-End Developer from Nganjuk, East Java, Indonesia.</p>
 
-### 🛠️ Tech Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+###
 
----
+<h2 align="left">👨‍💻About me</h2>
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/rizki-pratama-sunarko-30257b264/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/yourhandle/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/6285708350575" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-</p>
+###
+
+<p align="left">Hey there! I'm Rizki Pratama Sunarko, a Front-End Developer who turns coffee ☕ and late nights 🌙 into clean, responsive, and interactive websites.<br><br>My toolbox includes:  <br>- HTML & CSS — to build it pretty ✨  <br>- JavaScript — to make it alive ⚡  <br>- Tailwind CSS — because writing long CSS classes is sooo last year  <br>- React — for building cool, dynamic UIs  <br>- Git — so I can mess up and go back in time 😄<br><br>When I'm not coding, you might find me fishing 🎣 or pretending to debug when I’m actually watching memes 😎.  <br>Let’s build something awesome together!</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+<h2 align="left">Game</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkisunarko/rizkisunarko/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkisunarko/rizkisunarko/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkisunarko/rizkisunarko/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/rizkisunarko/rizkisunarko/output/snake.svg" alt="Snake animation" />
+
+###
